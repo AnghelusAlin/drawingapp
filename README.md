@@ -8,7 +8,9 @@ In order to run the app, you need:
   - tkinter python module
     
 Open the folder in terminal and run
+
   python3 gui.py
 
 In order to run the simulation part without the drawing GUI:
+
   python3 sim.py "path_to_gcode_file"
